@@ -24,11 +24,11 @@ Faculty of Biology, NKUA (_Affiliated Member_)
 - In 2019, Dr. Avgeris was elected Associate Professor at the School of Medicine of the National and Kapodistrian University of Athens. 
 <br>
 <br>
-The **research interests** include: 
-- Cancer Research – RNA biology<br>
-- Molecular Diagnostics – Molecular cancer biomarkers<br>
-- Non-coding RNAs – miRNAs, lncRNAs, tRFs<br>
-- Epigenetics (DNA methylation)<br>
-- Cell-free DNA (cfDNA) – Liquid biopsies<br>
-- Epitranscriptomics (RNA methylation)<br>
-- Next Generation Sequencing (NGS)<br>
+**Research Interests**
+- Cancer Research – RNA biology
+- Molecular Diagnostics – Molecular cancer biomarkers
+- Non-coding RNAs – miRNAs, lncRNAs, tRFs
+- Epigenetics (DNA methylation)
+- Cell-free DNA (cfDNA) – Liquid biopsies
+- Epitranscriptomics (RNA methylation)
+- Next Generation Sequencing (NGS)
