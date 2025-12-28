@@ -12,4 +12,3 @@ excerpt: "**NPJ Precis Oncol.** 2025 Oct 28;9(1):336. doi: 10.1038/s41698-025-01
 
 **PubMed:** [41152370](https://pubmed.ncbi.nlm.nih.gov/41152370/)  
 **DOI:** [10.1038/s41698-025-01101-6](https://doi.org/10.1038/s41698-025-01101-6)
----
