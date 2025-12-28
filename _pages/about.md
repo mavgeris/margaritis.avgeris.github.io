@@ -29,9 +29,9 @@ Next Generation Sequencing (NGS)<br>
 <br>
 <br>
 **Links**<br>
-PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date <br>
-Google Scholar: https://scholar.google.com/citations?user=v6yBiJ4AAAAJ&hl=en&oi=ao <br>
-Research Gate: https://www.researchgate.net/profile/Margaritis-Avgeris-2 <br>
-Orcid: https://orcid.org/0000-0002-2135-9886 <br>
-Publons: https://publons.com/researcher/253544/margaritis-avgeris/ <br>
-LinkedIn: https://www.linkedin.com/in/margaritis-avgeris-a4659b8b/?originalSubdoma... <br>
+PubMed: [https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date](https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date)<br>
+Google Scholar: [https://scholar.google.com/citations?user=v6yBiJ4AAAAJ&hl=en](https://scholar.google.com/citations?user=v6yBiJ4AAAAJ&hl=en)<br>
+Research Gate: [https://www.researchgate.net/profile/Margaritis-Avgeris-2](https://www.researchgate.net/profile/Margaritis-Avgeris-2)<br>
+Orcid: [https://orcid.org/0000-0002-2135-9886](https://orcid.org/0000-0002-2135-9886)<br>
+Publons: [https://publons.com/researcher/253544/margaritis-avgeris/](https://publons.com/researcher/253544/margaritis-avgeris/)<br>
+LinkedIn: [https://www.linkedin.com/in/margaritis-avgeris-a4659b8b/?originalSubdomain=gr](https://www.linkedin.com/in/margaritis-avgeris-a4659b8b/?originalSubdomain=gr)<br>
