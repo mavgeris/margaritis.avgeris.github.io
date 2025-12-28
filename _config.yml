@@ -23,7 +23,7 @@ repository               : "mavgeris/mavgeris.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Margaritis Avgeris"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, School of Medicine, National and Kapodistrian University of Athens (NKUA)"
