@@ -1,6 +1,7 @@
 ---
 title: "Long-term effects of SARS-CoV-2 infection on children's vasculature"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-04-28-sarscov2-vasculature
 date: 2025-04-28
 venue: "Pediatric Infectious Disease Journal"
