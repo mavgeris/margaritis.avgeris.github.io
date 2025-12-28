@@ -4,13 +4,7 @@ title: ""
 author_profile: true
 ---
 
-## Welcome
-
-I am Margaritis Avgeris, Associate Professor, School of Medicine<br>
-National and Kapodistrian University of Athens (NKUA)<br>
-Athens, Greece
-
-**Current Position**<br>
+**Margaritis Avgeris**<br>
 **Associate Professor**, School of Medicine, National and Kapodistrian University of Athens, Greece<br>
 - Laboratory of Clinical Biochemistry – Molecular Diagnostics<br>
 2nd Dept. of Pediatrics, “P. & A. Kyriakou” Children’s Hospital, School of Medicine, NKUA<br>
