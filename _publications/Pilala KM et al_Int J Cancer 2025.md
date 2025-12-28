@@ -1,6 +1,7 @@
 ---
 title: "Loss of METTL3 m6A methyltransferase results in short-term progression and poor treatment outcome of bladder cancer patients"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-02-01-mettl3-bladder
 date: 2026-02-01
 venue: "International Journal of Cancer"
