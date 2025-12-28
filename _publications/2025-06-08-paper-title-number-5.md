@@ -1,6 +1,7 @@
 ---
 title: "Lifestyle and biochemical parameters that may hamper immune responses in pediatric patients after immunization with the BNT162b2 mRNA COVID-19 vaccine"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-03-10-bnt162b2-immune-response
 date: 2025-03-10
 venue: "Diseases"
