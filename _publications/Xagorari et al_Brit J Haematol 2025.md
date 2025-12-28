@@ -1,6 +1,7 @@
 ---
 title: "NEAT1 lncRNA overexpression results in short-term progression and poor treatment outcome in childhood B-ALL"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-12-01-neat1-ball
 date: 2025-12-01
 venue: "British Journal of Haematology"
