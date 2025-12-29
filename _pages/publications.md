@@ -216,3 +216,73 @@ PubMed: [36460542](https://pubmed.ncbi.nlm.nih.gov/36460542/) · DOI: [10.1016/j
 Pilala KM, Papadimitriou MA, Panoutsopoulou K, Barbarigos P, Levis P, Kotronopoulos G, Stravodimos K, Scorilas A, **Avgeris M**  
 **Mol Ther Nucleic Acids.** 2022;30:311–322.  
 PubMed: [36320325](https://pubmed.ncbi.nlm.nih.gov/36320325/) · DOI: [10.1016/j.omtn.2022.10.001](https://doi.org/10.1016/j.omtn.2022.10.001)
+
+---
+
+**Delta SARS-CoV-2 variant is entirely substituted by the omicron variant during the fifth COVID-19 wave in Attica region**  
+Galani A, Markou A, Dimitrakopoulos L, Kontou A, Kostakis M, Kapes V, Diamantopoulos MA, Adamopoulos PG, **Avgeris M**, Lianidou E, Scorilas A, Paraskevis D, Tsiodras S, Dimopoulos MA, Thomaidis N  
+**Sci Total Environ.** 2023;856(Pt 1):159062.  
+PubMed: [36181801](https://pubmed.ncbi.nlm.nih.gov/36181801/) · DOI: [10.1016/j.scitotenv.2022.159062](https://doi.org/10.1016/j.scitotenv.2022.159062)
+
+---
+
+**Interplay between sulfur assimilation and biodesulfurization activity in *Rhodococcus qingshengii* IGTS8: Insights into a regulatory role of the reverse transsulfuration pathway**  
+Martzoukou O, Glekas PD, **Avgeris M**, Mamma D, Scorilas A, Kekos D, Amillis S, Hatzinikolaou DG  
+**mBio.** 2022;13(4):e00754-22.  
+PubMed: [35856606](https://pubmed.ncbi.nlm.nih.gov/35856606/) · DOI: [10.1128/mbio.00754-22](https://doi.org/10.1128/mbio.00754-22)
+
+---
+
+**Epi-miRNAs: Modern mediators of methylation status in human cancers** *(Review)*  
+Papadimitriou MA, Panoutsopoulou K, Pilala KM, Scorilas A, **Avgeris M**  
+**Wiley Interdiscip Rev RNA.** 2023;14(2):e1735.  
+PubMed: [35580998](https://pubmed.ncbi.nlm.nih.gov/35580998/) · DOI: [10.1002/wrna.1735](https://doi.org/10.1002/wrna.1735)
+
+---
+
+**Inadequate protection against measles and rubella among pregnant women in Greece during the last measles outbreak**  
+Papailiou S, Soldatou A, Marmarinos A, **Avgeris M**, Papathoma E, Sindos M, Georgantzi S, Rodolakis A, Iacovidou N, Gourgiotis D, Tsolia M  
+**J Infect.** 2022;84(6):e95–e97.  
+PubMed: [35398404](https://pubmed.ncbi.nlm.nih.gov/35398404/) · DOI: [10.1016/j.jinf.2022.04.012](https://doi.org/10.1016/j.jinf.2022.04.012)
+
+---
+
+**ENERDGE: Distributed energy-aware resource allocation at the edge**  
+**Avgeris M**, Spatharakis D, Dechouniotis D, Leivadeas A, Karyotis V, Papavassiliou S  
+**Sensors (Basel).** 2022;22(2):660.  
+PubMed: [35062619](https://pubmed.ncbi.nlm.nih.gov/35062619/) · DOI: [10.3390/s22020660](https://doi.org/10.3390/s22020660)
+
+---
+
+**tRNAGlyGCC-derived internal fragment (i-tRF-GlyGCC) in ovarian cancer treatment outcome and progression**  
+Panoutsopoulou K, Dreyer T, Dorn J, Obermayr E, Mahner S, Gorp TV, Braicu I, Zeillinger R, Magdolen V, **Avgeris M**, Scorilas A  
+**Cancers (Basel).** 2021;14(1):24.  
+PubMed: [35008188](https://pubmed.ncbi.nlm.nih.gov/35008188/) · DOI: [10.3390/cancers14010024](https://doi.org/10.3390/cancers14010024)
+
+---
+
+**Overexpression of the GR riborepressor lncRNA GAS5 results in poor treatment response and early relapse in childhood B-ALL**  
+Xagorari M, Marmarinos A, Kossiva L, Baka M, Doganis D, Servitzoglou M, Tsolia M, Scorilas A, **Avgeris M**, Gourgiotis D  
+**Cancers (Basel).** 2021;13(23):6064.  
+PubMed: [34885174](https://pubmed.ncbi.nlm.nih.gov/34885174/) · DOI: [10.3390/cancers13236064](https://doi.org/10.3390/cancers13236064)
+
+---
+
+**A cancer-related microRNA signature shows biomarker utility in multiple myeloma**  
+Papanota AM, Karousi P, Kontos CK, Artemaki PI, Liacos CI, Papadimitriou MA, Bagratuni T, Eleutherakis-Papaiakovou E, Malandrakis P, Ntanasis-Stathopoulos I, Gavriatopoulou M, Kastritis E, **Avgeris M**, Dimopoulos MA, Scorilas A, Terpos E  
+**Int J Mol Sci.** 2021;22(23):13144.  
+PubMed: [34884950](https://pubmed.ncbi.nlm.nih.gov/34884950/) · DOI: [10.3390/ijms222313144](https://doi.org/10.3390/ijms222313144)
+
+---
+
+**miRNA-seq and clinical evaluation in multiple myeloma: miR-181a overexpression predicts short-term disease progression and poor post-treatment outcome**  
+Papadimitriou MA, Papanota AM, Adamopoulos PG, Pilala KM, Liacos CI, Malandrakis P, Mavrianou-Koutsoukou N, Patseas D, Eleutherakis-Papaiakovou E, Gavriatopoulou M, Kastritis E, **Avgeris M**, Dimopoulos MA, Terpos E, Scorilas A  
+**Br J Cancer.** 2022;126(1):79–90.  
+PubMed: [34718359](https://pubmed.ncbi.nlm.nih.gov/34718359/) · DOI: [10.1038/s41416-021-01602-8](https://doi.org/10.1038/s41416-021-01602-8)
+
+---
+
+**SARS-CoV-2 wastewater surveillance data can predict hospitalizations and ICU admissions**  
+Galani A, Aalizadeh R, Kostakis M, Markou A, Alygizakis N, Lytras T, Adamopoulos PG, Peccia J, Thompson DC, Kontou A, Karagiannidis A, Lianidou ES, **Avgeris M**, Paraskevis D, Tsiodras S, Scorilas A, Vasiliou V, Dimopoulos MA, Thomaidis NS  
+**Sci Total Environ.** 2022;804:150151.  
+PubMed: [34623953](https://pubmed.ncbi.nlm.nih.gov/34623953/) · DOI: [10.1016/j.scitotenv.2021.150151](https://doi.org/10.1016/j.scitotenv.2021.150151)
