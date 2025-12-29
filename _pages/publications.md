@@ -627,7 +627,7 @@ PubMed: [20067463](https://pubmed.ncbi.nlm.nih.gov/20067463/) · DOI: [10.1111/j
 **Expression analysis and study of KLK4 in benign and malignant breast tumours**  
 Papachristopoulou G, **Avgeris M**, Scorilas A  
 **Thromb Haemost.** 2009;101(2):381–387.  
-PubMed: [19190825](https://pubmed.ncbi.nlm.nih.gov/19190825/)
+PubMed: [19190825](https://pubmed.ncbi.nlm.nih.gov/19190825/) · DOI: [10.1160/TH08-01-0037](https://doi.org/10.1160/TH08-01-0037)
 
 ---
 
