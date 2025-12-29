@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a complete and up-to-date list visit PubMed:  
+For a complete and up-to-date list visit **PubMed**:  
 [https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date](https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date)
 
 ## Journal Articles
