@@ -286,3 +286,73 @@ PubMed: [34718359](https://pubmed.ncbi.nlm.nih.gov/34718359/) · DOI: [10.1038/s
 Galani A, Aalizadeh R, Kostakis M, Markou A, Alygizakis N, Lytras T, Adamopoulos PG, Peccia J, Thompson DC, Kontou A, Karagiannidis A, Lianidou ES, **Avgeris M**, Paraskevis D, Tsiodras S, Scorilas A, Vasiliou V, Dimopoulos MA, Thomaidis NS  
 **Sci Total Environ.** 2022;804:150151.  
 PubMed: [34623953](https://pubmed.ncbi.nlm.nih.gov/34623953/) · DOI: [10.1016/j.scitotenv.2021.150151](https://doi.org/10.1016/j.scitotenv.2021.150151)
+
+---
+
+**Novel nested-seq approach for SARS-CoV-2 real-time epidemiology and in-depth mutational profiling in wastewater**  
+**Avgeris M**, Adamopoulos PG, Galani A, Xagorari M, Gourgiotis D, Trougakos IP, Voulgaris N, Dimopoulos MA, Thomaidis NS, Scorilas A  
+**Int J Mol Sci.** 2021;22(16):8498.  
+PubMed: [34445204](https://pubmed.ncbi.nlm.nih.gov/34445204/) · DOI: [10.3390/ijms22168498](https://doi.org/10.3390/ijms22168498)
+
+---
+
+**A molecular signature of circulating microRNA can predict osteolytic bone disease in multiple myeloma**  
+Papanota AM, Tsiakanikas P, Kontos CK, Malandrakis P, Liacos CI, Ntanasis-Stathopoulos I, Kanellias N, Gavriatopoulou M, Kastritis E, **Avgeris M**, Dimopoulos MA, Scorilas A, Terpos E  
+**Cancers (Basel).** 2021;13(15):3877.  
+PubMed: [34359778](https://pubmed.ncbi.nlm.nih.gov/34359778/) · DOI: [10.3390/cancers13153877](https://doi.org/10.3390/cancers13153877)
+
+---
+
+**Generation of non-small cell lung cancer patient-derived xenografts to study intratumor heterogeneity**  
+Kanaki Z, Voutsina A, Markou A, Pateras IS, Potaris K, **Avgeris M**, Makrythanasis P, Athanasiadis EI, Vamvakaris I, Patsea E, Vachlas K, Lianidou E, Georgoulias V, Kotsakis A, Klinakis A  
+**Cancers (Basel).** 2021;13(10):2446.  
+PubMed: [34070013](https://pubmed.ncbi.nlm.nih.gov/34070013/) · DOI: [10.3390/cancers13102446](https://doi.org/10.3390/cancers13102446)
+
+---
+
+**Clinical activity of an hTERT-specific cancer vaccine (Vx-001) in “immune desert” NSCLC**  
+Pateras IS, Kotsakis A, **Avgeris M**, Baliou E, Kouroupakis P, Patsea E, Georgoulias V, Menez-Jamet J, Kinet JP, Kosmatopoulos K  
+**Cancers (Basel).** 2021;13(7):1658.  
+PubMed: [33916194](https://pubmed.ncbi.nlm.nih.gov/33916194/) · DOI: [10.3390/cancers13071658](https://doi.org/10.3390/cancers13071658)
+
+---
+
+**Jagged ends of cell-free DNA: Rebranding fragmentomics in modern liquid biopsy diagnostics**  
+**Avgeris M**, Marmarinos A, Gourgiotis D, Scorilas A  
+**Clin Chem.** 2021;67(4):576–578.  
+PubMed: [33693633](https://pubmed.ncbi.nlm.nih.gov/33693633/) · DOI: [10.1093/clinchem/hvab036](https://doi.org/10.1093/clinchem/hvab036)
+
+---
+
+**Impact of three-dimensional vision in laparoscopic partial nephrectomy for renal tumors**  
+Tokas T, **Avgeris M**, Leotsakos I, Nagele U, Gözen AS  
+**Turk J Urol.** 2021;47(2):144–150.  
+PubMed: [33337319](https://pubmed.ncbi.nlm.nih.gov/33337319/) · DOI: [10.5152/tud.2020.20439](https://doi.org/10.5152/tud.2020.20439)
+
+---
+
+**tRNA-derived fragments (tRFs) in bladder cancer: Increased 5′-tRF-LysCTT results in disease early progression and patients' poor treatment outcome**  
+Papadimitriou MA, **Avgeris M**, Levis P, Papasotiriou EC, Kotronopoulos G, Stravodimos K, Scorilas A  
+**Cancers (Basel).** 2020;12(12):3661.  
+PubMed: [33291319](https://pubmed.ncbi.nlm.nih.gov/33291319/) · DOI: [10.3390/cancers12123661](https://doi.org/10.3390/cancers12123661)
+
+---
+
+**Analytical methodologies for the detection of SARS-CoV-2 in wastewater: Protocols and future perspectives** *(Review)*  
+Alygizakis N, Markou AN, Rousis NI, Galani A, **Avgeris M**, Adamopoulos PG, Scorilas A, Lianidou ES, Paraskevis D, Tsiodras S, Tsakris A, Dimopoulos MA, Thomaidis NS  
+**Trends Analyt Chem.** 2021;134:116125.  
+PubMed: [33235400](https://pubmed.ncbi.nlm.nih.gov/33235400/) · DOI: [10.1016/j.trac.2020.116125](https://doi.org/10.1016/j.trac.2020.116125)
+
+---
+
+**miR-181a overexpression predicts the poor treatment response and early progression of serous ovarian cancer patients**  
+Panoutsopoulou K, **Avgeris M**, Magkou P, Mavridis K, Dreyer T, Dorn J, Obermayr E, Reinthaller A, Michaelidou K, Mahner S, Vergote I, Loverix L, Braicu I, Sehouli J, Zeillinger R, Magdolen V, Scorilas A  
+**Int J Cancer.** 2020;147(12):3560–3573.  
+PubMed: [32621752](https://pubmed.ncbi.nlm.nih.gov/32621752/) · DOI: [10.1002/ijc.33182](https://doi.org/10.1002/ijc.33182)
+
+---
+
+**Blood-based analysis of 84 microRNAs identifies molecules deregulated in individuals with type-2 diabetes, risk factors for the disease or metabolic syndrome**  
+**Avgeris M**, Kokkinopoulou I, Maratou E, Mitrou P, Boutati E, Scorilas A, Fragoulis EG, Christodoulou MI  
+**Diabetes Res Clin Pract.** 2020;164:108187.  
+PubMed: [32360711](https://pubmed.ncbi.nlm.nih.gov/32360711/) · DOI: [10.1016/j.diabres.2020.108187](https://doi.org/10.1016/j.diabres.2020.108187)
