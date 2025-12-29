@@ -18,3 +18,8 @@
 .page__content h2 {
   margin: 1rem 0 0.5rem;
 }
+
+/* TEST: confirm custom.scss is loaded */
+.page__content {
+  border: 2px solid red;
+}
