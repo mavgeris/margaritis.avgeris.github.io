@@ -27,7 +27,6 @@ Cell-free DNA (cfDNA) – Liquid biopsies<br>
 Epitranscriptomics (RNA methylation)<br>
 Next Generation Sequencing (NGS)<br>
 <br>
-<br>
 **Links**<br>
 PubMed: [https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date](https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date)<br>
 Google Scholar: [https://scholar.google.com/citations?user=v6yBiJ4AAAAJ&hl=en](https://scholar.google.com/citations?user=v6yBiJ4AAAAJ&hl=en)<br>
